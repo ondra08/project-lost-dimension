@@ -1,0 +1,182 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Unity\\Project Yuri\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F2FD559C-3082-B16C-455F-E4937FE8083F}|Assembly-CSharp.csproj|d:\\unity\\project yuri\\assets\\interaction system\\player combat system\\battlezonetrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2FD559C-3082-B16C-455F-E4937FE8083F}|Assembly-CSharp.csproj|solutionrelative:assets\\interaction system\\player combat system\\battlezonetrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2FD559C-3082-B16C-455F-E4937FE8083F}|Assembly-CSharp.csproj|d:\\unity\\project yuri\\assets\\interaction system\\player menu system\\player status system\\weaponmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2FD559C-3082-B16C-455F-E4937FE8083F}|Assembly-CSharp.csproj|solutionrelative:assets\\interaction system\\player menu system\\player status system\\weaponmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2FD559C-3082-B16C-455F-E4937FE8083F}|Assembly-CSharp.csproj|D:\\Unity\\Project Yuri\\assets\\interaction system\\player menu system\\player status system\\protagonistmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2FD559C-3082-B16C-455F-E4937FE8083F}|Assembly-CSharp.csproj|solutionrelative:assets\\interaction system\\player menu system\\player status system\\protagonistmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2FD559C-3082-B16C-455F-E4937FE8083F}|Assembly-CSharp.csproj|D:\\Unity\\Project Yuri\\assets\\interaction system\\player menu system\\menu system\\menucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2FD559C-3082-B16C-455F-E4937FE8083F}|Assembly-CSharp.csproj|solutionrelative:assets\\interaction system\\player menu system\\menu system\\menucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2FD559C-3082-B16C-455F-E4937FE8083F}|Assembly-CSharp.csproj|D:\\Unity\\Project Yuri\\assets\\interaction system\\player menu system\\inventory system\\inventorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2FD559C-3082-B16C-455F-E4937FE8083F}|Assembly-CSharp.csproj|solutionrelative:assets\\interaction system\\player menu system\\inventory system\\inventorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2FD559C-3082-B16C-455F-E4937FE8083F}|Assembly-CSharp.csproj|D:\\Unity\\Project Yuri\\assets\\interaction system\\player menu system\\inventory system\\inventorytabmenumanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2FD559C-3082-B16C-455F-E4937FE8083F}|Assembly-CSharp.csproj|solutionrelative:assets\\interaction system\\player menu system\\inventory system\\inventorytabmenumanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2FD559C-3082-B16C-455F-E4937FE8083F}|Assembly-CSharp.csproj|D:\\Unity\\Project Yuri\\assets\\interaction system\\shop system\\itemdetailsui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2FD559C-3082-B16C-455F-E4937FE8083F}|Assembly-CSharp.csproj|solutionrelative:assets\\interaction system\\shop system\\itemdetailsui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2FD559C-3082-B16C-455F-E4937FE8083F}|Assembly-CSharp.csproj|D:\\Unity\\Project Yuri\\assets\\interaction system\\shop system\\shopmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2FD559C-3082-B16C-455F-E4937FE8083F}|Assembly-CSharp.csproj|solutionrelative:assets\\interaction system\\shop system\\shopmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2FD559C-3082-B16C-455F-E4937FE8083F}|Assembly-CSharp.csproj|D:\\Unity\\Project Yuri\\assets\\interaction system\\shop system\\shopslot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2FD559C-3082-B16C-455F-E4937FE8083F}|Assembly-CSharp.csproj|solutionrelative:assets\\interaction system\\shop system\\shopslot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2FD559C-3082-B16C-455F-E4937FE8083F}|Assembly-CSharp.csproj|D:\\Unity\\Project Yuri\\assets\\interaction system\\player menu system\\inventory system\\commentarymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2FD559C-3082-B16C-455F-E4937FE8083F}|Assembly-CSharp.csproj|solutionrelative:assets\\interaction system\\player menu system\\inventory system\\commentarymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BattleZoneTrigger.cs",
+              "DocumentMoniker": "D:\\Unity\\Project Yuri\\Assets\\Interaction System\\Player Combat System\\BattleZoneTrigger.cs",
+              "RelativeDocumentMoniker": "Assets\\Interaction System\\Player Combat System\\BattleZoneTrigger.cs",
+              "ToolTip": "D:\\Unity\\Project Yuri\\Assets\\Interaction System\\Player Combat System\\BattleZoneTrigger.cs",
+              "RelativeToolTip": "Assets\\Interaction System\\Player Combat System\\BattleZoneTrigger.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T18:00:13.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WeaponManager.cs",
+              "DocumentMoniker": "D:\\Unity\\Project Yuri\\Assets\\Interaction System\\Player Menu System\\Player Status System\\WeaponManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Interaction System\\Player Menu System\\Player Status System\\WeaponManager.cs",
+              "ToolTip": "D:\\Unity\\Project Yuri\\Assets\\Interaction System\\Player Menu System\\Player Status System\\WeaponManager.cs",
+              "RelativeToolTip": "Assets\\Interaction System\\Player Menu System\\Player Status System\\WeaponManager.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAcwBoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T04:21:13.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProtagonistManager.cs",
+              "DocumentMoniker": "D:\\Unity\\Project Yuri\\Assets\\Interaction System\\Player Menu System\\Player Status System\\ProtagonistManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Interaction System\\Player Menu System\\Player Status System\\ProtagonistManager.cs",
+              "ToolTip": "D:\\Unity\\Project Yuri\\Assets\\Interaction System\\Player Menu System\\Player Status System\\ProtagonistManager.cs",
+              "RelativeToolTip": "Assets\\Interaction System\\Player Menu System\\Player Status System\\ProtagonistManager.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAcwBoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T04:20:40.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MenuController.cs",
+              "DocumentMoniker": "D:\\Unity\\Project Yuri\\Assets\\Interaction System\\Player Menu System\\Menu System\\MenuController.cs",
+              "RelativeDocumentMoniker": "Assets\\Interaction System\\Player Menu System\\Menu System\\MenuController.cs",
+              "ToolTip": "D:\\Unity\\Project Yuri\\Assets\\Interaction System\\Player Menu System\\Menu System\\MenuController.cs",
+              "RelativeToolTip": "Assets\\Interaction System\\Player Menu System\\Menu System\\MenuController.cs",
+              "ViewState": "AQIAAJ8AAAAAAAAAAAAcwLUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T03:32:19.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "InventoryManager.cs",
+              "DocumentMoniker": "D:\\Unity\\Project Yuri\\Assets\\Interaction System\\Player Menu System\\Inventory System\\InventoryManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Interaction System\\Player Menu System\\Inventory System\\InventoryManager.cs",
+              "ToolTip": "D:\\Unity\\Project Yuri\\Assets\\Interaction System\\Player Menu System\\Inventory System\\InventoryManager.cs",
+              "RelativeToolTip": "Assets\\Interaction System\\Player Menu System\\Inventory System\\InventoryManager.cs",
+              "ViewState": "AQIAAGsAAAAAAAAAAAAcwIIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T02:38:11.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "InventoryTabMenuManager.cs",
+              "DocumentMoniker": "D:\\Unity\\Project Yuri\\Assets\\Interaction System\\Player Menu System\\Inventory System\\InventoryTabMenuManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Interaction System\\Player Menu System\\Inventory System\\InventoryTabMenuManager.cs",
+              "ToolTip": "D:\\Unity\\Project Yuri\\Assets\\Interaction System\\Player Menu System\\Inventory System\\InventoryTabMenuManager.cs",
+              "RelativeToolTip": "Assets\\Interaction System\\Player Menu System\\Inventory System\\InventoryTabMenuManager.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAcwDsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T02:36:54.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ItemDetailsUI.cs",
+              "DocumentMoniker": "D:\\Unity\\Project Yuri\\Assets\\Interaction System\\Shop System\\ItemDetailsUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Interaction System\\Shop System\\ItemDetailsUI.cs",
+              "ToolTip": "D:\\Unity\\Project Yuri\\Assets\\Interaction System\\Shop System\\ItemDetailsUI.cs",
+              "RelativeToolTip": "Assets\\Interaction System\\Shop System\\ItemDetailsUI.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAABBwFcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T15:19:48.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ShopSlot.cs",
+              "DocumentMoniker": "D:\\Unity\\Project Yuri\\Assets\\Interaction System\\Shop System\\ShopSlot.cs",
+              "RelativeDocumentMoniker": "Assets\\Interaction System\\Shop System\\ShopSlot.cs",
+              "ToolTip": "D:\\Unity\\Project Yuri\\Assets\\Interaction System\\Shop System\\ShopSlot.cs",
+              "RelativeToolTip": "Assets\\Interaction System\\Shop System\\ShopSlot.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAcwC0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T15:17:46.451Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ShopManager.cs",
+              "DocumentMoniker": "D:\\Unity\\Project Yuri\\Assets\\Interaction System\\Shop System\\ShopManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Interaction System\\Shop System\\ShopManager.cs",
+              "ToolTip": "D:\\Unity\\Project Yuri\\Assets\\Interaction System\\Shop System\\ShopManager.cs",
+              "RelativeToolTip": "Assets\\Interaction System\\Shop System\\ShopManager.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAFIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T15:16:49.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CommentaryManager.cs",
+              "DocumentMoniker": "D:\\Unity\\Project Yuri\\Assets\\Interaction System\\Player Menu System\\Inventory System\\CommentaryManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Interaction System\\Player Menu System\\Inventory System\\CommentaryManager.cs",
+              "ToolTip": "D:\\Unity\\Project Yuri\\Assets\\Interaction System\\Player Menu System\\Inventory System\\CommentaryManager.cs",
+              "RelativeToolTip": "Assets\\Interaction System\\Player Menu System\\Inventory System\\CommentaryManager.cs",
+              "ViewState": "AQIAAIYAAAAAAAAAAAAAAIYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T14:45:37.217Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
